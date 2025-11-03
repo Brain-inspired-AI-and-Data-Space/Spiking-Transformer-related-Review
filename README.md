@@ -21,4 +21,33 @@
 | 17   | **Spiking Wavelet Transformer**                              |           | https://arxiv.org/abs/2403.11138                             |
 | 18   | Spiking-YOLO: Spiking Neural Network for Energy-Efficient Object Detection |           | https://arxiv.org/abs/1903.06530                             |
 | 19   | Transformer-Based Spiking Neural Networks for Multimodal Audiovisual Classification |           | https://ieeexplore.ieee.org/document/10293172                |
-| 20   |                                                              |           |                                                              |
+| 20   | SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms |           | https://arxiv.org/abs/2406.03287                             |
+| 21   | SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks |           | https://arxiv.org/abs/2302.13939                             |
+| 22   | SPIKEBERT: A LANGUAGE SPIKFORMER LEARNED FROM BERT WITH KNOWLEDGE DISTILLATION |           | https://arxiv.org/abs/2308.15122                             |
+| 23   | Exploring Extreme Quantization in Spiking Language Models    |           | https://dl.acm.org/doi/abs/10.1109/ICONS62911.2024.00047     |
+| 24   | SpikingBrain Technical Report: Spiking Brain-inspired Large Models |           | https://dl.acm.org/doi/abs/10.1109/ICONS62911.2024.00047     |
+| 25   | SpikeBERT: A Language Spikformer Trained with Two-Stage Knowledge Distillation from BERT |           | https://arxiv.org/abs/2308.15122                             |
+| 26   | SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation |           | https://arxiv.org/abs/2308.10873                             |
+| 27   | SpikingMiniLM: energy-efficient spiking transformer for natural language understanding |           | https://link.springer.com/article/10.1007/s11432-024-4101-6  |
+| 28   | SpikedAttention: Training-Free and Fully Spike-Driven Transformer-to-SNN Conversion with Winner-Oriented Spike Shift for Softmax Operation |           | https://github.com/sangwoohwang/SpikedAttention              |
+| 29   | SNN-BERT: Training-efficient Spiking Neural Networks for energy-efficient BERT |           | https://www.sciencedirect.com/science/article/pii/S0893608024005549 |
+| 30   |                                                              |           |                                                              |
+| 31   |                                                              |           |                                                              |
+| 32   |                                                              |           |                                                              |
+| 33   |                                                              |           |                                                              |
+| 34   |                                                              |           |                                                              |
+|      |                                                              |           |                                                              |
+|      |                                                              |           |                                                              |
+|      |                                                              |           |                                                              |
+|      |                                                              |           |                                                              |
+
+
+
+
+
+
+
+
+
+
+
