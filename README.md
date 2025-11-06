@@ -31,15 +31,27 @@
 | 27   | SpikingMiniLM: energy-efficient spiking transformer for natural language understanding |           | https://link.springer.com/article/10.1007/s11432-024-4101-6  |
 | 28   | SpikedAttention: Training-Free and Fully Spike-Driven Transformer-to-SNN Conversion with Winner-Oriented Spike Shift for Softmax Operation |           | https://github.com/sangwoohwang/SpikedAttention              |
 | 29   | SNN-BERT: Training-efficient Spiking Neural Networks for energy-efficient BERT |           | https://www.sciencedirect.com/science/article/pii/S0893608024005549 |
-| 30   |                                                              |           |                                                              |
-| 31   |                                                              |           |                                                              |
-| 32   |                                                              |           |                                                              |
-| 33   |                                                              |           |                                                              |
-| 34   |                                                              |           |                                                              |
-|      |                                                              |           |                                                              |
-|      |                                                              |           |                                                              |
-|      |                                                              |           |                                                              |
-|      |                                                              |           |                                                              |
+| 30   | HPCNeuroNet: Advancing Neuromorphic AudioSignal Processing with Transformer-EnhancedSpiking Neural Networks |           |                                                              |
+| 31   | Xpikeformer: Hybrid Analog-Digital HardwareAcceleration for Spiking Transformers |           |                                                              |
+| 32   | An Efficient Sparse Hardware Accelerator forSpike-Driven Transformer |           |                                                              |
+| 33   | Hardware Efficient Accelerator for SpikingTransformer With Reconfigurable Parallel TimeStep Computing |           |                                                              |
+| 34   | Spiking Transformer Hardware Accelerators in 3D Integration  |           |                                                              |
+| 35   | Energy efficient spike transformer accelerator at the edge   |           |                                                              |
+| 36   | Spiking Transformer Networks: A Rate CodedApproach for Processing Sequential Data |           |                                                              |
+| 37   | Brain-inspired Action Generation with SpikingTransformer Diffusion Policy Model |           |                                                              |
+| 38   | Energy-Efficient Deep Reinforcement Learning withSpiking Transformers |           |                                                              |
+| 39   | Spiking Decision Transformers: Local Plasticity,Phase-Coding, and Dendritic Routing forLow-Power Sequence Control |           |                                                              |
+| 40   | Decision SpikeFormer: Spike-Driven Transformer for Decision Making |           |                                                              |
+| 41   | SpikedAttention: Training-Free and FullySpike-Driven Transformer-to-SNN Conversion withWinner-Oriented Spike Shift for Softmax Operation |           |                                                              |
+| 42   | AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network |           |                                                              |
+| 43   |                                                              |           |                                                              |
+| 44   |                                                              |           |                                                              |
+| 45   |                                                              |           |                                                              |
+| 46   |                                                              |           |                                                              |
+| 47   |                                                              |           |                                                              |
+| 48   |                                                              |           |                                                              |
+| 49   |                                                              |           |                                                              |
+| 50   |                                                              |           |                                                              |
 
 
 
